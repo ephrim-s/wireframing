@@ -69,3 +69,59 @@ Wireframes are composed of several essential elements that define the structure 
 ---
 
 Understanding these elements ensures that your wireframes are not only visually organized but also aligned with usability and user goals.
+
+## Types of Wireframes
+
+Wireframes come in different levels of detail and fidelity depending on the stage of the design process. The two most common types are **low-fidelity** and **high-fidelity** wireframes.
+
+### Low-Fidelity Wireframes
+
+**Description:**  
+Low-fidelity wireframes are simple, sketch-like representations of the interface. They use basic shapes (boxes, lines, placeholders) to illustrate layout and structure without any visual styling or detailed content.
+
+**When to Use:**
+- Early in the design process
+- Brainstorming and ideation
+- Stakeholder discussions
+- Rapid iteration and feedback
+
+**Characteristics:**
+- No color or images
+- Uses placeholders like “Header,” “Image,” or “Button”
+- Focus on layout and content hierarchy
+
+**Example Use Case:**  
+Sketching the homepage of a booking system to decide where the search bar, property listings, and filters should be located.
+
+---
+
+### High-Fidelity Wireframes
+
+**Description:**  
+High-fidelity wireframes are more detailed and closely resemble the final UI. They include specific fonts, images, spacing, and even clickable elements.
+
+**When to Use:**
+- Mid-to-late stages of the design process
+- Preparing for client or stakeholder approval
+- Handoff to developers
+- Usability testing
+
+**Characteristics:**
+- Real content (or realistic placeholders)
+- Styled UI elements (buttons, dropdowns, modals)
+- Precise spacing, colors, and icons
+
+**Example Use Case:**  
+Designing the checkout flow of the booking system with real button styles, date pickers, and booking confirmation dialogs.
+
+---
+
+## What Type of Wireframe is This?
+
+The wireframe used in this project is a **High-Fidelity Wireframe**.
+
+It includes detailed visual design elements such as styled buttons, icons, imagery, and structured layout. The screens closely resemble the final product, making them suitable for stakeholder presentation, usability testing, and development handoff.
+
+**Figma Link:** [View the High-Fidelity Wireframe](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=117-1418&t=MWwostxO86HWwrha-0)
+
+This wireframe helps to clearly communicate functionality and aesthetics, reducing ambiguity and ensuring development aligns with design intent.
