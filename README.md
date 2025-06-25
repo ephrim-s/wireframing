@@ -125,3 +125,37 @@ It includes detailed visual design elements such as styled buttons, icons, image
 **Figma Link:** [View the High-Fidelity Wireframe](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=117-1418&t=MWwostxO86HWwrha-0)
 
 This wireframe helps to clearly communicate functionality and aesthetics, reducing ambiguity and ensuring development aligns with design intent.
+
+
+## Popular Wireframing Tools
+
+There are several powerful tools available for wireframing, each offering different levels of fidelity, collaboration, and prototyping capabilities. Choosing the right tool depends on the complexity of your project, the size of your team, and your design goals.
+
+### 🔧 Common Wireframing Tools
+
+- **Figma** – Cloud-based design and prototyping tool with powerful collaboration features.
+- **Sketch** – Popular on macOS for creating high-fidelity UI designs and wireframes.
+- **Adobe XD** – Part of Adobe's suite, supports UI design, prototyping, and animation.
+- **Balsamiq** – Great for creating quick, low-fidelity wireframes that resemble hand-drawn sketches.
+- **Wireframe.cc** – Simple browser-based tool ideal for minimal low-fidelity mockups.
+- **Lucidchart / Draw.io** – Best for flowcharts, diagrams, and early-stage conceptual wireframes.
+
+---
+
+### ⭐ Recommended Tool: Figma
+
+**Figma** is one of the most widely used and highly recommended tools for wireframing and UI/UX design.
+
+#### 🧰 Key Features:
+- **Real-Time Collaboration:** Multiple designers and stakeholders can work on the same file simultaneously — perfect for team projects.
+- **Cross-Platform:** Works entirely in the browser, so no installation is needed and it works on any operating system.
+- **Component-Based Design:** Lets you reuse elements like buttons, forms, and icons across your wireframes to ensure consistency.
+- **Prototyping Tools:** Easily transform your wireframes into clickable prototypes for testing and feedback.
+- **Commenting and Sharing:** Share files with links, get feedback through comments, and collaborate seamlessly with developers.
+
+#### 🎯 Why Figma for Wireframing?
+Figma combines low-fidelity and high-fidelity wireframing in a single platform. It supports fast ideation with simple frames and shapes and scales up to fully interactive, developer-ready designs. Its real-time collaboration and community-driven templates make it ideal for agile design teams and solo developers alike.
+
+---
+
+Using Figma streamlines the design process, reduces communication gaps, and bridges the transition from concept to code with ease.
